@@ -21,6 +21,7 @@ git clone https://github.com/funnymonke12/flask_shortener.git
 2. Создайте и активируйте виртаульное окружение
 ```commandline
 python -m venv venv
+
 Если у вас Linux
 source venv/Scripts/activate
 
@@ -43,9 +44,10 @@ flask run
 
 ## Как использовать
 ####   Всего есть 2 вкладки это Главная и Ссылки. На главной странице вы сможете укоротить вашу ссылку
+![img.png](images/img.png)
 
 ####  Вторая вкладка это Ссылки. На ней вы сможете посмотреть все когда-либо укороченные ссылки на этом сайте
-
+![img_1.png](images/img_1.png)
 
 ## Автор
 Максим Иванов Сергеевич
